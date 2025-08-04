@@ -1,2 +1,4 @@
 # Discord-Bot
-Simple personal se Discord bot
+A simple personal use Discord bot
+
+Mostly just a proof-of-concept project, more features are likely to be added later
